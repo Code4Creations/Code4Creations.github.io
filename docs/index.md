@@ -1,3 +1,5 @@
-# ECML - Enforcer Custom Mission Loader
+# Welcome
 
-A simple mod for <b>Enforcer: Police Crime Action</b> bringing capability for creating custom missions.
+Welcome to the documentation.
+
+Use the navigation on the left to explore guides.

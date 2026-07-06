@@ -1,5 +1,5 @@
-site_name: Enforcer Custom Mission Loader
-site_url: https://blabla.com/
+site_name: Code4Creations Documentation
+site_url: https://code4creations.github.io/
 theme:
   name: material
   font:
@@ -25,13 +25,13 @@ theme:
       primary: blue
       accent: blue grey
 
-repo_url: https://github.com/Code4Creations/ECML
-
 nav:
-  - index.md
-  - howto.md
-  - customs.md
-  - missionExample.md
+  - Welcome: index.md
+  - Enforcer Custom Mission Loader:
+    - About: ECML/about.md
+    - Installation: ECML/howto.md
+    - Creating Missions: ECML/customs.md
+    - Mission Example: ECML/missionExample.md
 
 markdown_extensions:
   - attr_list
@@ -53,6 +53,6 @@ markdown_extensions:
 extra:
   social:
     - icon: simple/github
-      link: https://github.com/Code4Creations/ECML
+      link: https://github.com/Code4Creations/
 
 copyright: Copyright &copy; 2026 Code4Creations
