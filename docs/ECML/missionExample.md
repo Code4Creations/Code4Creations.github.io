@@ -1,6 +1,6 @@
 # Example Mission
 !!! info "This mission file comes with the mod!"
-``` title="CM_ExampleCustomMission.xml"
+```xml title="CM_ExampleCustomMission.xml"
 <?xml version="1.0" encoding="UTF-8"?>
 <Mission>
 	<MissionID>12</MissionID>
