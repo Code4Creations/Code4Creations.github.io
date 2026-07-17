@@ -32,6 +32,9 @@ nav:
     - Installation: ECML/howto.md
     - Creating Missions: ECML/customs.md
     - Mission Example: ECML/missionExample.md
+  - Enforcer Overhaul:
+    - About: EO/about.md
+    - Installation: EO/howto.md
 
 markdown_extensions:
   - attr_list
